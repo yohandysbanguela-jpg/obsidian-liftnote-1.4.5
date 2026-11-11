@@ -1,0 +1,10 @@
+{
+  "id": "liftnote",
+  "name": "Liftnote",
+  "version": "1.4.5",
+  "minAppVersion": "1.5.0",
+  "description": "Gym workout tracker for Obsidian: routines, live sets, rest timer, PRs, volume, calendar and progression. Designed for iPhone.",
+  "author": "Yohandys",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
